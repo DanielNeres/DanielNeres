@@ -33,6 +33,6 @@ Atualmente, estou trabalhando em aprimorar minhas habilidades de programação. 
 Se você deseja colaborar em projetos, trocar ideias ou apenas bater um papo sobre programação, sinta-se à vontade para entrar em contato comigo pelo email
 <div>
 <a href = "mailto:danielnerres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-<div>
-  
+<div>  
+  <br>
 Vamos colaborar e aprender juntos!
