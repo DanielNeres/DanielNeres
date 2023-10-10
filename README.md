@@ -14,8 +14,8 @@
 
 <div>
 <a href="https://beacons.ai/DanielNeres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielNeres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNeres&show&layout=compact&langs=16&theme=dark"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=DanielNeres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNeres&show&layout=compact&langs=16&theme=dark"/>
 <div>
 
 ## Habilidades de Programação
